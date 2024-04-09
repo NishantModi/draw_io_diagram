@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T05:57:04.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="NUh8Uf7tTKDVbiC82mbq" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:23:19.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wh_Y-Ygmk9Pg6NHPpIpN" version="24.2.3" type="github">
   <diagram name="Page-1" id="ufHtXc1G-BHqhX4R1GTJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1834" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-1" value="NewVision Learning &amp;amp; Development Model&lt;div&gt;&amp;nbsp;Proposal&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;fontColor=#2EFFF8;" vertex="1" parent="1">
+          <mxGeometry x="229" y="58" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;flowAnimation=1;" edge="1" parent="1" source="Z5SINSni2j-AMe0iMZT7-2" target="Z5SINSni2j-AMe0iMZT7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-2" value="Login&amp;nbsp;&lt;div&gt;(Personal Udemy Account)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-88" y="193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-94" y="401" as="sourcePoint" />
+            <mxPoint x="437" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#2EFFF8;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="952" y="418" as="sourcePoint" />
+            <mxPoint x="-183.00006781542083" y="422.9283234918132" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z5SINSni2j-AMe0iMZT7-6" target="Z5SINSni2j-AMe0iMZT7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="191.5" width="66" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFFFF;flowAnimation=1;" edge="1" parent="1" source="Z5SINSni2j-AMe0iMZT7-6" target="Z5SINSni2j-AMe0iMZT7-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="422" as="sourcePoint" />
+            <mxPoint x="437" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;flowAnimation=1;" edge="1" parent="1" source="Z5SINSni2j-AMe0iMZT7-10" target="Z5SINSni2j-AMe0iMZT7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-10" value="Purchase Coruse&amp;nbsp;&lt;div&gt;(Personal Udemy Account)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;flowAnimation=1;shadow=1;" edge="1" parent="1" source="Z5SINSni2j-AMe0iMZT7-12" target="Z5SINSni2j-AMe0iMZT7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-12" value="Coruse Completion&lt;div&gt;(Max. 15 Days)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;flowAnimation=1;" edge="1" parent="1" source="Z5SINSni2j-AMe0iMZT7-14" target="Z5SINSni2j-AMe0iMZT7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-14" value="Send Email for Reimbursment&lt;div&gt;(Within 3 Days of completion)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="512" y="193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-17" value="Check Authenticity" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="712" y="173" width="94" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-19" value="Approve" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="866" y="116" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-20" value="Reject" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="870" y="273" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FFFFFF;dashed=1;flowAnimation=1;dashPattern=12 12;" edge="1" parent="1" source="Z5SINSni2j-AMe0iMZT7-17" target="Z5SINSni2j-AMe0iMZT7-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="422" as="sourcePoint" />
+            <mxPoint x="437" y="372" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="759" y="146" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5SINSni2j-AMe0iMZT7-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;dashed=1;flowAnimation=1;dashPattern=12 12;" edge="1" parent="1" source="Z5SINSni2j-AMe0iMZT7-17" target="Z5SINSni2j-AMe0iMZT7-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="748" y="319" as="sourcePoint" />
+            <mxPoint x="855" y="292" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="759" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
